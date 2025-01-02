@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: homeproject
+Version: 0.1.0
+Summary: Find the hottest month and city for a given year from temperature data
+Author-email: Your Name <your_email@example.com>
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: pytest
